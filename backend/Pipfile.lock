@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7cb9cd4244c181a1984a28dc3d6b3cec1ec45b039c0d40673ba2a2abeb1bb0cb"
+            "sha256": "7edaa40c92d6dd55277a449c6a199fa1c661594df0f424a7d629672c7f0a256c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -71,6 +71,10 @@
         "cb-django-files": {
             "editable": true,
             "path": "./modules/django_files"
+        },
+        "cb-django-hubspot": {
+            "editable": true,
+            "path": "./modules/django_hubspot"
         },
         "cb-django-push-notifications": {
             "editable": true,
