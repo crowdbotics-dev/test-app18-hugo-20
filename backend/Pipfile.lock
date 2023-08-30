@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2b242ba49494b1d0c7a156ad8cda03f3512b381cfbb37b1b29a469f3bef0444b"
+            "sha256": "7cb9cd4244c181a1984a28dc3d6b3cec1ec45b039c0d40673ba2a2abeb1bb0cb"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -67,6 +67,10 @@
         "cb-django-articles": {
             "editable": true,
             "path": "./modules/django_articles"
+        },
+        "cb-django-files": {
+            "editable": true,
+            "path": "./modules/django_files"
         },
         "cb-django-push-notifications": {
             "editable": true,
